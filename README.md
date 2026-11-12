@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project implements and investigates **K-means clustering** as an image segmentation technique, motivated by an agricultural robotics scenario where a robot camera must distinguish crops, soil, weeds, and shadows in field images.
 
@@ -23,7 +23,7 @@ Three feature representations are systematically compared across a 20-image agri
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 MCE401__KmeansProject/
@@ -64,7 +64,7 @@ MCE401__KmeansProject/
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### 1. Prerequisites
 - Python 3.13+
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔬 Experiments
+## Experiments
 
 ### Experiment A — Influence of Number of Clusters (K)
 K-means segmentation using **RGB** colour features.  
@@ -107,7 +107,7 @@ Spatial weighting λ tested: `{0.1, 0.5, 1.0}`
 
 ---
 
-## ▶️ Running the Code
+## Running the Code
 
 Run experiments from the project root:
 
@@ -126,7 +126,7 @@ All outputs are saved to the `outputs/` directory.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 | Package | Version |
 |---|---|
@@ -140,7 +140,7 @@ See [`requirements.txt`](requirements.txt) for the full pinned list.
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 | Metric | Description |
 |---|---|
@@ -159,9 +159,9 @@ Haug, S. & Ostermann, J. (2014/2015)
 
 ---
 
-## 🏫 Academic Context
+## Academic Context
 
-This project was developed as **Task 1** of MCE 401 (Computer Vision and Image Processing) in the Department of Mechatronics Engineering, Bowen University.
+This project was developed as Task 1, run by two students (Folorunso Enoch and Adeosun Oluwatamilore) who are interested in computer vision and Image processing courses.
 
 It demonstrates both practical Python/OpenCV programming skills and an understanding of the computer vision principles underlying K-means clustering for image segmentation.
 
