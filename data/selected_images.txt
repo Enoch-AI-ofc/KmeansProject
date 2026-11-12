@@ -1,0 +1,23 @@
+# 20 Selected Images from CWFID (Crop/Weed Field Image Dataset)
+# MCE 401: Task 1 K-means Image Segmentation Experiment
+# Resolution: 1296 x 966, 3 channels (RGB)
+001_image.png
+007_image.png
+010_image.png
+011_image.png
+015_image.png
+018_image.png
+020_image.png
+021_image.png
+023_image.png
+025_image.png
+026_image.png
+029_image.png
+030_image.png
+031_image.png
+038_image.png
+046_image.png
+050_image.png
+051_image.png
+058_image.png
+059_image.png

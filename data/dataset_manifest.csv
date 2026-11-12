@@ -1,0 +1,21 @@
+index,filename,original_width,original_height,channels,mask_width,mask_height,dimensions_compatible,mask_unique_values,vegetation_pixel_count,vegetation_percentage,background_pixel_count,background_percentage,annotation_png_exists,annotation_yaml_exists,agronomic_category
+1,001_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",221109,17.6614,1030827,82.3386,True,True,Dense Vegetation
+2,007_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",203015,16.2161,1048921,83.7839,True,True,Dense Vegetation
+3,010_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",85362,6.8184,1166574,93.1816,True,True,Moderate Vegetation
+4,011_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",91458,7.3053,1160478,92.6947,True,True,Moderate Vegetation
+5,015_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",76201,6.0867,1175735,93.9133,True,True,Moderate Vegetation
+6,018_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",100431,8.0221,1151505,91.9779,True,True,Moderate Vegetation
+7,020_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",22329,1.7836,1229607,98.2164,True,True,Sparse / Soil-Dominant
+8,021_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",28698,2.2923,1223238,97.7077,True,True,Sparse / Soil-Dominant
+9,023_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",85147,6.8012,1166789,93.1988,True,True,Moderate Vegetation
+10,025_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",84856,6.778,1167080,93.222,True,True,Moderate Vegetation
+11,026_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",62012,4.9533,1189924,95.0467,True,True,Sparse / Soil-Dominant
+12,029_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",240361,19.1991,1011575,80.8009,True,True,Dense Vegetation
+13,030_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",28403,2.2687,1223533,97.7313,True,True,Sparse / Soil-Dominant
+14,031_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",174175,13.9125,1077761,86.0875,True,True,Dense Vegetation
+15,038_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",157268,12.562,1094668,87.438,True,True,Dense Vegetation
+16,046_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",30361,2.4251,1221575,97.5749,True,True,Sparse / Soil-Dominant
+17,050_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",19885,1.5883,1232051,98.4117,True,True,Sparse / Soil-Dominant
+18,051_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",189412,15.1295,1062524,84.8705,True,True,Dense Vegetation
+19,058_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",184296,14.7209,1067640,85.2791,True,True,Dense Vegetation
+20,059_image.png,1296,966,3,1296,966,True,"[np.uint8(0), np.uint8(255)]",143849,11.4901,1108087,88.5099,True,True,Moderate Vegetation
