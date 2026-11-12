@@ -1,7 +1,6 @@
-# MCE 401 — K-means Image Segmentation
+# K-means Image Segmentation
 
-**Course:** MCE 401 — Computer Vision and Image Processing  
-**Department:** Mechatronics Engineering, Bowen University  
+
 **Project Title:** *What Makes Pixels Similar? Investigating Colour and Spatial Features for K-means Image Segmentation*
 
 ---
